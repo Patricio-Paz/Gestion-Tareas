@@ -1,4 +1,4 @@
-📝 Gestor de Tareas – Full Stack
+📝 Gestor de Tareas 
 ---
 
 1️⃣ Descripción del proyecto
@@ -13,4 +13,5 @@ Descripción
 Estado (completa o incompleta)
 
 El proyecto está pensado para aprender y practicar un flujo Full Stack moderno usando API REST y consumo de servicios desde React.
+
 
